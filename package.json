@@ -1,0 +1,16 @@
+{
+  "name": "concurrent-transform",
+  "version": "1.0.0",
+  "description": "Adds some concurrency to a transform stream",
+  "keywords": [],
+  "author": "Segment <team@segment.io>",
+  "repository": { "type": "git", "url": "git://github.com/segmentio/concurrent-transform.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "publishConfig": {
+    "registry":"https://registry.npmjs.org"
+  },
+  "main": "index"
+}
