@@ -1,7 +1,7 @@
 {
   "name": "@segment/concurrent-transform",
   "main": "index",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "Adds some concurrency to a transform stream",
   "keywords": [],
